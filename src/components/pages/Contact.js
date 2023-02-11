@@ -5,7 +5,7 @@ export default function Contact() {
     <div>
       <h1>Contact</h1>
       <p>
-        Contact info: 
+        Contact info: <a href="https://github.com/Sheogorath9" target="_blank">GitHub Repository</a><br></br>
       </p>
     </div>
   );
