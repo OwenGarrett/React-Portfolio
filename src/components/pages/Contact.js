@@ -7,22 +7,23 @@ export default function Contact() {
       <p>
         Contact info: <a href="https://github.com/Sheogorath9" target="_blank">GitHub Repository</a><br></br>
       </p>
-      </div>
+    
       <div class="container">
-      <form action="action_page.php">
+      <form>
     
-        <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <label htmlFor="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name.."/>
     
-        <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <label  htmlFor="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name.."/>
     
-       <label for="subject"></label>
-        <textarea id="subject" name="subject" placeholder="Enter Text Here" style="height:200px"></textarea>
+       <label  htmlFor="subject"></label>
+        <textarea id="subject" name="subject" placeholder="Enter Text Here"></textarea>
     
-        <input type="submit" value="Submit">
+        <button type='submit'>Submit</button>
     
       </form>
+      </div>
     </div>
   );
 }

@@ -10,6 +10,11 @@ footer {
     background-color: green;
 }
 
-container {
+.container {
     background-color: blue;
+}
+
+.page {
+    background-color: green;
+    height: 100vh;
 }
