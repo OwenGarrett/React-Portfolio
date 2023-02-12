@@ -6,6 +6,6 @@ This was my first project that I utilized React. In order to work on my applicat
 
 <img src="src/assets/portfolio.png" alt="app in react" title="app in react">
 
-https://github.com/Sheogorath9/React-Portfolio/settings/pages
+https://sheogorath9.github.io/React-Portfolio/
 
 OG :alien: :yin_yang:
